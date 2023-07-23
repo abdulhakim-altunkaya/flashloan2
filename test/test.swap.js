@@ -40,4 +40,6 @@ describe("creaate contraact", () => {
     assert(amount.toString())
     console.log(amount);
   })
+
+
 })
